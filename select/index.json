@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "海とレモンティー",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-01T12:45:39.078106Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "海とレモンティー",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_海とレモンティー_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "海とレモンティー(instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_海とレモンティー(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海とレモンティー",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_海とレモンティー_=LOVE.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "海とレモンティー",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_02_海とレモンティー_=LOVE.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "海とレモンティー - =LOVE 7th ANNIVERSARY PREMIUM CONCERT",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_03_海とレモンティー_-_=LOVE_7th_ANNIVERSARY_PREMIUM_CONCERT_=LOVE.txt"
+    }
+  ]
+}
